@@ -1,0 +1,52 @@
+            * {
+                margin: 0;
+                padding: 0;
+            }
+            
+            body {
+                font-family: sans-serif;
+            }
+            
+            #navigation-bar {
+                position: sticky;
+                top: 0;
+                z-index: 10;
+            }
+            
+            .navbar {
+                background-image: linear-gradient(to right, #777777, #dddcdd);
+                padding: 0 !important;
+            }
+            
+            .navbar-brand {
+                height: 40px;
+                padding-left: 20px;
+            }
+            
+            .navbar-nav li {
+                padding: 0 10px;
+            }
+            
+            .navbar-nav li a {
+                color: black !important;
+                font-weight: 600;
+            }
+            
+            #Services {
+                padding: 80px 0;
+            }
+            
+            .Service-img {
+                width: 700px;
+                margin: 20px;
+            }
+            
+            .Services {
+                padding: 20px;
+            }
+            
+            .Services h2 {
+                padding: 5px;
+                margin-top: 25px;
+                text-transform: uppercase;
+            }
