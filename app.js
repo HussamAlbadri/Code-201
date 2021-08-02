@@ -1,4 +1,4 @@
-let UserName = prompt("What is your name...?")
+/*let UserName = prompt("What is your name...?")
 
 alert("Welcome MR/MRS....." + UserName)
 
@@ -12,5 +12,4 @@ let Q3 = prompt("Would you like to take a tour into our website?")
 document.write('<h2>' + Q2 + '<h2>')
 
 let number = 25;
-number = 40;
-console.log(number)
+number = 40; */
